@@ -1,0 +1,42 @@
+
+$red: #E27060;
+$teal-light: #85DCBB;
+$teal-dark: #41B3A3;
+$orange: #E8A87C;
+$pink: #C38D9E;
+
+button {
+    border-radius: 10px;
+    border-width: 1px;
+    border-width: 0px;
+    background-color: $pink;
+    font-size: $base-font-size;
+    font-family: $base-font-family;
+    font-weight: $base-font-weight;
+    color: #fff;
+    padding: 5px 10px;
+    margin: 10px 0px;
+}
+
+.index-grid {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    place-items: center;
+}
+
+.index-item {
+    text-align: center;
+}
+
+hr {
+    color: $grey-color;
+    background-color: $grey-color-light;
+    border-width: 0px;
+    height: 1px;
+}
+
+.tag-div {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}

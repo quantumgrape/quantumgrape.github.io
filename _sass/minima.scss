@@ -12,7 +12,7 @@ $spacing-unit:     30px !default;
 
 $text-color:       #111 !default;
 $background-color: #fff !default;
-$brand-color:      #139213 !default;
+$brand-color:      #2b6d64 !default;
 
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
@@ -21,10 +21,10 @@ $grey-color-dark:  darken($grey-color, 25%) !default;
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width:    900px !default;
+$content-width:    800px !default;
 
 $on-palm:          600px !default;
-$on-laptop:        900px !default;
+$on-laptop:        800px !default;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -48,5 +48,6 @@ $on-laptop:        900px !default;
   "minima/base",
   "minima/layout",
   "minima/syntax-highlighting",
-  "fonts"
+  "fonts",
+  "style"
 ;
