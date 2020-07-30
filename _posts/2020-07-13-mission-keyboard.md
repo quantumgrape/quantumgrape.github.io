@@ -13,13 +13,7 @@ I've been looking at mechanical keyboards for about 1-2 years now. Initially whe
 
  The thing I have not been able to figure it was the keyboard. I mostly love the T440 keyboard, especially after having some work laptops from HP and Dell, and thought "Hey, if Lenovo can make nice laptop keyboards they should also have some nice stand-alone keyboards?". Boy was I wrong. I picked up the (Lenovo Professional Wireless Keyboard and Mouse)[https://www.lenovo.com/us/en/accessories-and-monitors/keyboards-and-mice/keyboard-and-mouse-combos/KB-MICE-BO-Mouse-and-KBD-Combo-USE/p/4X30H56796] and not only did it lack the feel of the Thinkpad keyboard, keycaps got stuck and wobbly and the feel just worse, whereas the Thinkpad keyboard almost gets better with age.
 
-I have since then learned there is another Lenovo keyboard with a closer feel to the Thinkpad but a lot of reviews still say it's not good enough. So I started appreciating the viewpoint of the mechanical keyboard community more and more and after 
+I have since then learned there is (another Lenovo keyboard)[https://www.lenovo.com/us/en/accessories-and-monitors/keyboards-and-mice/keyboards/KEYBOARD-US-English/p/0B47190] with a closer feel to the Thinkpad but a lot of reviews still say it's not good enough. But before trying another Lenovo membrane board I had already started looking into the world of mechanical keyboard and the idea of building something with feel and look personalized to my taste had been planted.
 
-- My mission and reasoning
-- Group Buys
-- Resources
-  - Reddit
-  - Discords
-  - matt3o
-  - Shops
+
   
