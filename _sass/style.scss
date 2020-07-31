@@ -28,6 +28,21 @@ button {
     text-align: center;
 }
 
+.index-icon-data-science {
+    height: 10em;
+    fill: $orange;
+}
+
+.index-icon-research {
+    height: 10em;
+    fill: $red;
+}
+
+.index-icon-blog {
+    height: 10em;
+    fill: $teal-dark;
+}
+
 hr {
     color: $grey-color;
     background-color: $grey-color-light;

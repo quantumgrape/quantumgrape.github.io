@@ -5,7 +5,9 @@ date:   2020-07-13 14:00:00 +0100
 categories: projects mechanical-keyboard
 ---
 
-I've been looking at mechanical keyboards for about 1-2 years now. Initially when I heard about a friend who had built one a few years back, my thoughts were like "Wow, it's not worth spending that much money on a keyboard" and "Why do you want a loud keyboard? Noise is like the worst thing about them". Around the same time I had just gotten my first Thinkpad, a T440, and over time I slowly realized the joy of typing on a nice keyboard. Since then I started thinking more about ergonomics and my home office setup and have slowly done each component:
+I've been looking at mechanical keyboards for about 1-2 years now. Initially when I heard about a friend who had built one a few years back, my thoughts were like "Wow, it's not worth spending that much money on a keyboard" and "Why do you want a loud keyboard? Noise is like the worst thing about them". Around the same time I had just gotten my first Thinkpad, a T440, and over time I slowly realized the joy of typing on a nice keyboard. 
+
+Since then I started thinking more about ergonomics and my home office setup and have slowly done each component:
  - Got an adjustable desk
  - Got a 27" 4K IPS panel on an hydraulic VESA arm
  - Replaced my mouse with a Logitech MX Master 2
