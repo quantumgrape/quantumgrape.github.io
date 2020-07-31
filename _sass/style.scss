@@ -5,11 +5,15 @@ $teal-dark: #41B3A3;
 $orange: #E8A87C;
 $pink: #C38D9E;
 
+$primary: #3D4E17;
+$secondary: #C7A003;
+$secondary-dark: #151F1E;
+
 button {
     border-radius: 10px;
     border-width: 1px;
     border-width: 0px;
-    background-color: $pink;
+    background-color: $secondary;
     font-size: $base-font-size;
     font-family: $base-font-family;
     font-weight: $base-font-weight;
@@ -28,9 +32,14 @@ button {
     text-align: center;
 }
 
+.index-icon {
+    height: 10em;
+    fill: $primary;
+}
+
 .index-icon-data-science {
     height: 10em;
-    fill: $orange;
+    fill: $primary;
 }
 
 .index-icon-research {
@@ -39,6 +48,16 @@ button {
 }
 
 .index-icon-blog {
+    height: 10em;
+    fill: $teal-dark;
+}
+
+.index-icon-camera {
+    height: 10em;
+    fill: $teal-dark;
+}
+
+.index-icon-keyboard {
     height: 10em;
     fill: $teal-dark;
 }
