@@ -25,7 +25,7 @@ layout: default
   {{ content }}
   
   <div class="tag-div">
-    <button id="all" onclick="filterUsingCategory('All')"><b>All Posts</b></button>
+    <button id="all" onclick="filterUsingCategory('all')"><b>All Posts</b></button>
     {% assign categories = site.categories | sort %}
     {% for category in categories %}
       {% assign cat = category | first %}
