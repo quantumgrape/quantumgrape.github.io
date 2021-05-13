@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Mission: Keyboard"
 date:   2020-07-13 14:00:00 +0100
 categories: projects mechanical-keyboard

@@ -1,7 +1,11 @@
 ---
-layout: page
-title: Research
-permalink: /research/
+layout: single
+author_profile: true
 ---
 
-Papers, thesis and links to Google Scholar and ResearchGate.
+# Current work
+Data scientist ar RaySearch Laboratories, support research collaborations in addition to working with product development.
+
+# Previous work
+
+## 

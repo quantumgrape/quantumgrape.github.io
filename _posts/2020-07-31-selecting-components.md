@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Selecting components"
 date:   2020-07-31 14:00:00 +0100
 categories: projects mechanical-keyboard

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Where To Learn About Mechanical Keyboards"
 date:   2020-07-31 14:00:00 +0100
 categories: projects mechanical-keyboard
