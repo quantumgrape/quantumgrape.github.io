@@ -223,6 +223,9 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-remote-theme 
+
+remote_theme: benbalter/retlab
 
 # mimic GitHub Pages with --safe
 whitelist:
