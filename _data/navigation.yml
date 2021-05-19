@@ -1,3 +1,9 @@
 main:
+- title: KBIC65
+  url: /kbic65/
 - title: Research
   url: /research/
+- title: Photography
+  url: /photography/
+- title: Posts
+  url: /posts/
