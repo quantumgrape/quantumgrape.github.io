@@ -1,8 +1,12 @@
 ---
 layout: single
+author_profile: false
 title:  "Making dithered PCB art for KiCad"
 date:   2021-05-20 14:00:00 +0100
 categories: projects mechanical-keyboard pcb
+excerpt: ""
+header:
+    overlay_image: /assets/images/sun/pcb_bottom_4M.jpg
 ---
 
 When I decided to make an alternative design for the bottom of the [KBIC65](https://karlb.xyz/kbic65/) I eventually settled on trying my hand at creating a [dithered image]() for my bottom PCB. This was a little trickier than I expected to get looking like I wanted but I really like the end result. When researching how to do it I had a hard time finding a good tutorial so I thought it might be worth sharing how I did it in the end, so you can produce something nice faster than me. The technique I use to scale and dither the image can be used for other types of engraving or printing, for example laser etching.
