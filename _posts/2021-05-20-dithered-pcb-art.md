@@ -29,12 +29,12 @@ JLCPCB and probably most other hobby-friendly PCB manufacturers can print at a r
 
 **Note** If you want to create dithered art for some other tool, like a laser etcher, you simply just have to figure out the size of the smallest dot or line you can make, which is what I refer to as resolution, and calculate the corresponding DPI.
 
-<img src="../assets/images/sun/grayscale_600.png" width="600">
+<img src="/assets/images/sun/grayscale_600.png" width="600">
 
 ## Dither
 Use a dithering tool to dither your image and create a dithered copy. I strongly recommend [Ditherlicious](https://29a.ch/ditherlicious/) but you can look around for other tools you have handy. I also played around with dithering in Corel PaintShop Pro 2019, but didn't like the result as much, and I believe Photoshop should have some tools for dithering. Once you have rendered your dithered image you should know that it might look funny, or not accurate, if you look at it using less screen pixels than the size of the image.
 
-<img src="../assets/images/sun/grayscale_600-dithered.png" width="600">
+<img src="/assets/images/sun/grayscale_600-dithered.png" width="600">
 
 ## Create and import footprint in KiCad
 - Open your KiCad project and then open Convert Image, a.k.a. the bitmap2component tool.
@@ -43,7 +43,7 @@ Use a dithering tool to dither your image and create a dithered copy. I strongly
 - Add your new folder as a footprint library
 - Import your new PCB art footprint onto your PCB
 
-<img src="../assets/images/sun/kicad_footprint.png" width="600">
+<img src="/assets/images/sun/kicad_footprint.png" width="600">
 
 ## Iterate
 Iterate, I played a lot with different dithering tools, changing the image contrast and exposure before conversion etc. The bitmap2component tool does not import dithered image exactly but blends pixels together, therefore I would recommend generating a few variants and comparing them in KiCad and possibly the 3D viewer. Personally, I think the resolution or separation of dots looks better in real life than what the footprint in KiCad did.
@@ -52,8 +52,8 @@ Iterate, I played a lot with different dithering tools, changing the image contr
 
 ## Manufacture
 Final result after ordering from JLCPCB with black solder mask and ENIG finish.
-<img src="../assets/images/sun/pcb_sun_final.jpg" width="600">
+<img src="/assets/images/sun/pcb_sun_final.jpg" width="600">
 
 And with a little more context on the back of the KBIC65.
-<img src="../assets/images/sun/pcb_bottom_4M.jpg" width="800">
+<img src="/assets/images/sun/pcb_bottom_4M.jpg" width="800">
 
