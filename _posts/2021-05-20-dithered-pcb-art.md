@@ -22,7 +22,7 @@ At least in the best of worlds.
 ## Pick an image
 Settle on an image to use, crop it to only the part you want to place on the PCB. I settled on a NASA SDO image.
 
-<img src="../assets/images/sun/color_1200.png" width="600">
+<img src="/assets/images/sun/color_1200.png" width="600">
 
 ## Resize
 JLCPCB and probably most other hobby-friendly PCB manufacturers can print at a resolution of about 0.15 mm, which is equivalent to about 169 DPI. This means you should try to use 169 DPI or less, I used 169 DPI. Resize your image so that the resolution of the image at your selected DPI gives you the size you want on the board. I wanted my sun to be approximately 90 mm high so I resized to 600px high, which results in an image 90.2 mm high at 169 DPI.
